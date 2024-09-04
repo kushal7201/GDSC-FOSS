@@ -7,7 +7,7 @@ Ensure that Git is installed on your computer, along with Git Bash for Windows. 
 3. Make the required changes as instructed below.
 4. Push the changes to the repository from the branch named `<your roll number>`.
 
-Note : If your task meets the specified instructions and is correct, it will be merged into the `main` branch of the repository.
+Note: You should create separate pull requests for each task. If your task meets the specified instructions and is correct, it will be merged into the `main` branch of the repository.
 
 ## Task Instructions:
 Each Task should be committed in `contributors / <your roll number> / <task number> / file.txt`. <br>
@@ -15,19 +15,19 @@ Each Task should be committed in `contributors / <your roll number> / <task numb
           
 ## Task-1 Steps
 
-1.  On the `main` branch, add the name of your favorite food to the first line of a designated text file.
+1.  On your created branch, add the name of your favorite food to the first line of a designated text file.
    - **Commit:** Save this change with a commit message, such as `"Added favorite food"`.
 
-2.  Create a new branch named `feature`, using the `main` branch as the base.
+2.  Create a new branch named `second_branch`, using the initial branch as the base.
 
-3.  On the `feature` branch, add the name of your dream company on the second line of the same text file.
+3.  On the `second_branch` branch, add the name of your dream company on the second line of the same text file.
    - **Commit:** Save this change with a commit message, like `"Added dream company"`.
 
-4.  Switch back to the `main` branch and add the name of your city on the second line, just below your favorite food.
+4.  Switch back to the initial branch and add the name of your city on the second line, just below your favorite food.
 
-5.  Commit this change on the `main` branch with a message such as `"Added city name"`.
+5.  Commit this change on your initial branch with a message such as `"Added city name"`.
 
-6.  Merge the `feature` branch into the `main` branch.
+6.  Merge the `second_branch` branch into your initial branch.
 
 7.  Resolve any merge conflicts that arise during the merge process. The final format of the file should be:
    - **First line:** Favorite food
