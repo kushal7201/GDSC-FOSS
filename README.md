@@ -53,6 +53,7 @@ Each Task should be committed in `contributors / <your roll number> / <task numb
 
 ## Final Deliverables
 
-- **Screenshot 1:** After the soft reset, showing the first commit and the unstaged changes.
-- **Screenshot 2:** After the final commit, displaying the updated commit history with the combined changes.
+- **Screenshot 1:** Details of the three commits, showing the first, second, and third commit.
+- **Screenshot 2:** After the soft reset, showing the first commit and the unstaged changes.
+- **Screenshot 3:** After the final commit, displaying the updated commit history with the combined changes.
 
