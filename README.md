@@ -2,7 +2,7 @@
 ## Task Instructions:
 Each Task should be committed in `contributors / <your roll number> / <task number> / file.txt`.
 
-## Task Steps
+## Task-1 Steps
 
 1.  On the `main` branch, add the name of your favorite food to the first line of a designated text file.
    - **Commit:** Save this change with a commit message, such as `"Added favorite food"`.
@@ -30,3 +30,29 @@ Each Task should be committed in `contributors / <your roll number> / <task numb
 10. Push your changes and create a pull request.
 
 **Note:** Each commit should have a message that succinctly describes the change it introduces. For example, the first commit could be titled `"Added favorite food"`.
+
+
+
+## Task-2 Steps
+
+1.  Make three separate changes in your working directory and commit each change individually. Follow the instructions below for each commit:
+   - **First Commit:** Write your full name on the first line of the designated text file and commit this change with a message like `"Initial commit with full name."`
+   - **Second Commit:** Add your favorite tech stack on the second line of the same text file and commit this change with a message such as `"Added favorite tech stack."`
+   - **Third Commit:** Write your hobby on the third line of the file and commit this change with a message like `"Added hobby."`
+
+2.  Perform a soft reset to undo the last two commits, keeping their changes in your working directory as unstaged files. The first commit should remain intact in the commit history. Use the command:
+   - **Screenshot 1:** Take a screenshot of the commit history after the reset, highlighting that the first commit is still present, and the changes from the second and third commits are unstaged.
+
+3.  Stage all the unstaged changes from the reset (corresponding to the second and third commits) and combine them into a single final commit.
+   - **Final Commit:** Save this commit with a message like `"Combined changes from reset commits."`
+
+4.  Confirm that the final commit reflects the combined changes from the previously reset commits and that the commit history now shows the first original commit followed by the final combined commit.
+   - **Screenshot 2:** Capture a screenshot of the final commit history, showing that the changes from the second and third commits have been successfully combined into one commit after the reset.
+
+---
+
+## Final Deliverables
+
+- **Screenshot 1:** After the soft reset, showing the first commit and the unstaged changes.
+- **Screenshot 2:** After the final commit, displaying the updated commit history with the combined changes.
+
