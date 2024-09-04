@@ -1,7 +1,7 @@
 # GDSC FOSS WING
 ## Task Instructions:
 Each Task should be committed in `contributors / <your roll number> / <task number> / file.txt`. <br>
-**Note:** -  Each commit should have a message that briefly describes the change it introduces. For example, the first commit could be titled `"Added favorite food"`.
+**Note:** -  Each commit should have a message that briefly describes the change it introduces. 
           -  The screenshot required should be saved in the `contributors / <roll number> / <task number> folder` with name <screenshot_number>.png(or jpg or jpeg).
           
 ## Task-1 Steps
