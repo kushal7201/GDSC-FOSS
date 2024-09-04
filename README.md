@@ -1,7 +1,9 @@
 # GDSC FOSS WING
 ## Task Instructions:
 Each Task should be committed in `contributors / <your roll number> / <task number> / file.txt`.
-
+**Note:** -  Each commit should have a message that briefly describes the change it introduces. For example, the first commit could be titled `"Added favorite food"`.
+          -  The screenshot required should be saved in the contributors / <roll number> / <task number> folder with name <screenshot_number>.png(or jpg or jpeg).
+          
 ## Task-1 Steps
 
 1.  On the `main` branch, add the name of your favorite food to the first line of a designated text file.
@@ -29,9 +31,6 @@ Each Task should be committed in `contributors / <your roll number> / <task numb
 
 10. Push your changes and create a pull request.
 
-**Note:** -  Each commit should have a message that succinctly describes the change it introduces. For example, the first commit could be titled `"Added favorite food"`.
-          -  The screenshot required should be saved in the contributors / <roll number> / <task number> folder with name <screenshot_number>.png(or jpg or jpeg).
-
 
 
 ## Task-2 Steps
@@ -52,7 +51,7 @@ Each Task should be committed in `contributors / <your roll number> / <task numb
 
 ---
 
-## Final Deliverables
+## Required screenshots of Task 2
 
 - **Screenshot 1:** Details of the three commits, showing the first, second, and third commit.
 - **Screenshot 2:** After the soft reset, showing the first commit and the unstaged changes.
