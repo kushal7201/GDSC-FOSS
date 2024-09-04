@@ -56,3 +56,5 @@ Each Task should be committed in `contributors / <your roll number> / <task numb
 - **Screenshot 2:** After the soft reset, showing the first commit and the unstaged changes.
 - **Screenshot 3:** After the final commit, displaying the updated commit history with the combined changes.
 
+Note: Plagiarism will be strictly checked. So please refrain from copying. 
+Wishing you the best of luck with the task! 👍
