@@ -29,7 +29,8 @@ Each Task should be committed in `contributors / <your roll number> / <task numb
 
 10. Push your changes and create a pull request.
 
-**Note:** Each commit should have a message that succinctly describes the change it introduces. For example, the first commit could be titled `"Added favorite food"`.
+**Note:** -  Each commit should have a message that succinctly describes the change it introduces. For example, the first commit could be titled `"Added favorite food"`.
+          -  The screenshot required should be saved in the contributors / <roll number> / <task number> folder with name <screenshot_number>.png(or jpg or jpeg).
 
 
 
