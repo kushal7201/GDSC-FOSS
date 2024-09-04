@@ -7,7 +7,7 @@ Ensure that Git is installed on your computer, along with Git Bash for Windows. 
 3. Make the required changes as instructed below.
 4. Push the changes to the repository from the branch named `<your roll number>`.
 
-Note: You should create separate pull requests for each task. If your task meets the specified instructions and is correct, it will be merged into the `main` branch of the repository.
+Note: You should `create separate pull requests` for each task. If your task meets the specified instructions and is correct, it will be merged into the `main` branch of the repository.
 
 ## Task Instructions:
 Each Task should be committed in `contributors / <your roll number> / <task number> / file.txt`. <br>
