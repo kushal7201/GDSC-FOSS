@@ -50,7 +50,7 @@ Each Task should be committed in `contributors / <your roll number> / <task numb
 
 ---
 
-## Required screenshots of Task 2
+### Required screenshots of Task 2
 
 - **Screenshot 1:** Details of the three commits, showing the first, second, and third commit.
 - **Screenshot 2:** After the soft reset, showing the first commit and the unstaged changes.
