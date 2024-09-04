@@ -5,7 +5,7 @@ Ensure that Git is installed on your computer, along with Git Bash for Windows. 
 1. Pull or clone this Git repository to your local machine.
 2. Switch from the `main` branch to a new branch named `<your roll number>`.
 3. Make the required changes as instructed below.
-4. Push the changes to the repository from the branch named `<your roll number>`.
+4. Create a pull request to the `main` branch repository from the branch named `<your roll number>`.
 
 Note: You should `create separate pull requests` for each task. If your task meets the specified instructions and is correct, it will be merged into the `main` branch of the repository.
 
