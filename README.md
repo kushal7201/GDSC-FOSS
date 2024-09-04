@@ -1,4 +1,14 @@
 # GDSC FOSS WING
+
+## Prerequisites : 
+Ensure that Git is installed on your computer, along with Git Bash for Windows. To complete the tasks, follow these steps:
+1. Pull or clone this Git repository to your local machine.
+2. Switch from the `main` branch to a new branch named `<your roll number>`.
+3. Make the required changes as instructed below.
+4. Push the changes to the repository from the branch named `<your roll number>`.
+
+Note : If your task meets the specified instructions and is correct, it will be merged into the `main` branch of the repository.
+
 ## Task Instructions:
 Each Task should be committed in `contributors / <your roll number> / <task number> / file.txt`. <br>
 **Note:** -  Each commit should have a message that briefly describes the change it introduces. The screenshot required should be saved in the `contributors / <roll number> / <task number> folder` with name <screenshot_number>.png(or jpg or jpeg).
