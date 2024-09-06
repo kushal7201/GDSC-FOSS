@@ -53,13 +53,11 @@ Each Task should be committed in `contributors / <your roll number> / <task numb
    - **Third Commit:** Write your hobby on the third line of the file and commit this change with a message like `"Added hobby."`
 
 2.  Perform a soft reset to undo the last two commits, keeping their changes in your working directory as unstaged files. The first commit should remain intact in the commit history. 
-   - **Screenshot 1:** Take a screenshot of the commit history after the reset, highlighting that the first commit is still present, and the changes from the second and third commits are unstaged.
 
 3.  Stage all the unstaged changes from the reset (corresponding to the second and third commits) and combine them into a single final commit.
    - **Final Commit:** Save this commit with a message like `"Combined changes from reset commits."`
 
 4.  Confirm that the final commit reflects the combined changes from the previously reset commits and that the commit history now shows the first original commit followed by the final combined commit.
-   - **Screenshot 2:** Capture a screenshot of the final commit history, showing that the changes from the second and third commits have been successfully combined into one commit after the reset.
 
 ---
 
