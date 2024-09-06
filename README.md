@@ -10,7 +10,7 @@ Ensure that Git is installed on your computer, along with Git Bash for Windows. 
 - `Push Changes:` Push the changes to your forked repository on GitHub.
 - `Create a Pull Request:` Open a pull request from your branch to the main branch of the GDSC-FOSS repository.
 
-Note: You should `create separate pull requests` for each task. If your task meets the specified instructions and is correct, it will be merged into the `main` branch of the repository. Each pull request should be from a branch whose name is `<your roll number`.
+Note: You should `create separate pull requests` for each task. If your task meets the specified instructions and is correct, it will be merged into the `main` branch of the repository. Each pull request should be from a branch whose name is `<your roll number>`.
 
 ## Task Instructions:
 Each Task should be committed in `contributors / <your roll number> / <task number> / file.txt`. <br>
