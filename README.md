@@ -14,8 +14,10 @@ Note: You should `create separate pull requests` for each task. If your task mee
 
 ## Task Instructions:
 Each Task should be committed in `contributors / <your roll number> / <task number> / file.txt`. <br>
-**Note:** -  Each commit should have a message that briefly describes the change it introduces. The screenshot required should be saved in the `contributors / <roll number> / <task number> folder` with name <screenshot_number>.png(or jpg or jpeg). <br>
-You have to use `git log` or `git log --oneline` command in git bash for the screenshots and NOT from the github interface.
+**Note:** 
+- Each commit should have a message that briefly describes the change it introduces. The screenshot required should be saved in the `contributors / <roll number> / <task number> folder` with name <screenshot_number>.png(or jpg or jpeg). <br>
+- You have to use `git log` or `git log --oneline` command in git bash for the screenshots and NOT from the github interface.
+- The Pull Request should NOT contain any redundant commits, i.e. only the meaningful commits will be accepted.
           
 ## Task-1 Steps
 
