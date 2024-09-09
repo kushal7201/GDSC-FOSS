@@ -1,1 +1,3 @@
 Swarup Vijay Narkhede
+MEAN(MongoDB,ExpressJS,AngularJS,NodeJS).
+Table, Cricket, Watching Movies.
