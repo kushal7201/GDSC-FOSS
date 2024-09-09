@@ -1,1 +1,3 @@
 Aishwarya Rajendra Auti
+MERN Stack (MongoDB, Express.js, React, Node.js
+Drawing
