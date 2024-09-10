@@ -1,1 +1,3 @@
 Name - Asim Kalim
+Favorite Tech Stack - MERN Stack
+Hobby - Watching Anime/Series, competitive coding, reading Manga
