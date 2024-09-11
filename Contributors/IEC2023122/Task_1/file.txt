@@ -1,6 +1,3 @@
 Pizza
-<<<<<<< HEAD
 Gorakhpur
-=======
 Google
->>>>>>> second_branch
